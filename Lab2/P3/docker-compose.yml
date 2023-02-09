@@ -1,0 +1,10 @@
+version: '3.3'
+services:
+    slave-jenkins:
+        container_name: "slave-jenkins"
+        build: .
+        
+       
+       
+    
+    
