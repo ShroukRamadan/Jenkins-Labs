@@ -50,6 +50,9 @@ docker ps -a
 
 ![Screenshot from 2023-02-08 19-48-56](https://user-images.githubusercontent.com/57557314/217702746-cb9dc1ff-5059-4147-b476-2416e47759ff.png)
 
+
+![Screenshot from 2023-02-20 14-12-11](https://user-images.githubusercontent.com/57557314/220114304-fd66e2b8-2391-4271-b7f9-5f926d02e4c8.png)
+
 ----------------------------------------------------------------------------------
 
 3. create docker file to build image for jenkins slave and create container from this image and configure ssh
